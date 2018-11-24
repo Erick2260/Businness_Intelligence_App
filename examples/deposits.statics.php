@@ -16,7 +16,7 @@
 		</div>
 		<!-- Forms -->
 		<div class="content">
-			<?php include'forms/cheques/graph.php'; ?>
+			<?php include'forms/depositos/graph.php'; ?>
 		</div>
 		<!-- Footer -->
 	</div>

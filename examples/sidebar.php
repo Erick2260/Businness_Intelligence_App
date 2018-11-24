@@ -51,7 +51,7 @@
 	    	 <div id="collapseOne" class="collapse hide" aria-labelledby="headingOne" data-parent="#accordionExample">
 			 <ul>
 				 <li class="" id="headingOne">
-     	     		 <a href="./cheques.php" >
+     	     		 <a href="./deposits.statics.php" >
      	     			 <i class="now-ui-icons design_app"></i>
      	     			 <p>Inidicadores</p>
      	     		 </a>
