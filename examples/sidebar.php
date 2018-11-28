@@ -7,7 +7,7 @@
 
 	 </a>
 	 <a href="./sidebar.php" class="simple-text logo-normal">
-	   <h2>ACME</h2>
+	   <h2>BI APP</h2>
 	 </a>
     </div>
     <div class="sidebar-wrapper accordion" id="accordionExample">
@@ -43,9 +43,15 @@
 			</a>
 		</li>
 		<li>
-			<a href="./clientes.list.php">
+			<a href="./remesas.statics.php">
 				<i class="now-ui-icons files_paper"></i>
-				<p><strong>Documentos</strong> </p>
+				<p><strong>Remesas</strong> </p>
+			</a>
+		</li>
+		<li>
+			<a href="./retiros.statics.php">
+				<i class="now-ui-icons files_paper"></i>
+				<p><strong>Retiros</strong> </p>
 			</a>
 		</li>
 		<li class="" id="headingOne">
