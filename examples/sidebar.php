@@ -19,7 +19,7 @@
 			 </a>
 		 </li>
 		<li>
-			<a href="./facturas.list.php">
+			<a href="./transfers.statics.php">
 				<i class="now-ui-icons files_paper"></i>
 				<p> <strong>Transacciones</strong></p>
 			</a>
@@ -28,6 +28,12 @@
 			<a href="./products.list.php">
 				<i class="now-ui-icons files_paper"></i>
 				<p><strong>Clientes</strong> </p>
+			</a>
+		</li>
+		<li>
+			<a href="./products.list.php">
+				<i class="now-ui-icons files_paper"></i>
+				<p><strong>Cheques</strong> </p>
 			</a>
 		</li>
 		<li>
@@ -45,7 +51,7 @@
 		<li class="" id="headingOne">
     		 <a href="./index.php" data-toggle="collapse" data-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
     			 <i class="now-ui-icons design_app"></i>
-    			 <p>Depositos</p>
+    			 <p><strong>Depositos</strong></p>
     		 </a>
 	    	 </li>
 	    	 <div id="collapseOne" class="collapse hide" aria-labelledby="headingOne" data-parent="#accordionExample">

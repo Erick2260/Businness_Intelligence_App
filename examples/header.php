@@ -29,5 +29,11 @@
 	.sidebar-wrapper{
 		font-size: 18px;
 	}
+	.num{
+		color: #FF4136;
+		padding-top: 60px;
+		font-weight: bold;
+		font-size: 100px;
+	}
   </style>
 </head>
